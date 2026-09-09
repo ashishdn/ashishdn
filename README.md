@@ -2,7 +2,7 @@
 
 ### 💻 Web Developer | WordPress & Elementor Specialist | Shopify Developer
 
-I'm a passionate Web Developer with **2+ years of professional experience**, specializing in building modern, responsive, high-performing websites and eCommerce solutions.
+I'm a passionate Web Developer with **3+ years of professional experience**, specializing in building modern, responsive, high-performing websites and eCommerce solutions.
 
 I've worked on **80+ live projects** for international clients, with a strong focus on **WordPress, Elementor, Crocoblock/JetEngine, WooCommerce, Shopify, and custom web development**.
 
