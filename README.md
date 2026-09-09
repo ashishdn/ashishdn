@@ -30,6 +30,6 @@ I'm a passionate and creative web developer with a strong foundation in both fro
 - GitHub: https://github.com/ashishdn
 - LinkedIn: https://www.linkedin.com/in/debashish10/
 - Email: dnashish.dev@gmail.com
-- Portfolio: ashishweb.com
+- Portfolio: https://ashishweb.com/
 
 Thanks you 👨‍💻
