@@ -1,38 +1,38 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=230&section=header&text=Ashish%20Kumar%20Debnath&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Web%20Developer%20%E2%80%A2%20WordPress%20%26%20Elementor%20Specialist%20%E2%80%A2%20Shopify%20Developer&descSize=16&descAlignY=58" width="100%" alt="header" />
+<img src="./assets/header.svg" width="100%" alt="Ashish Kumar Debnath - Web Developer" />
 
-<!-- Circular profile photo (pulled from your GitHub avatar) -->
+<br/>
+
+<!-- Circular profile photo (from your GitHub avatar) -->
 <a href="https://ashishweb.com/">
   <img src="https://images.weserv.nl/?url=github.com/ashishdn.png&w=200&h=200&fit=cover&mask=circle&maxage=7d" width="170" alt="Ashish Kumar Debnath" />
 </a>
 
 <br/>
 
-<!-- Typing animation -->
+<!-- Typing animation: readable in both dark and light mode -->
 <a href="https://ashishweb.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00F7FF&center=true&vCenter=true&width=760&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Ashish+Kumar+Debnath;%F0%9F%92%BB+WordPress+%26+Elementor+Specialist;%F0%9F%9B%8D%EF%B8%8F+Shopify+%26+WooCommerce+Developer;%F0%9F%9A%80+80%2B+Live+Projects+for+International+Clients;%F0%9F%8E%A8+Pixel-Perfect+%E2%80%A2+Responsive+%E2%80%A2+Fast" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=760&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Ashish+Kumar+Debnath;%F0%9F%92%BB+WordPress+%26+Elementor+Specialist;%F0%9F%9B%8D%EF%B8%8F+Shopify+%26+WooCommerce+Developer;%F0%9F%9A%80+80%2B+Live+Projects+for+Global+Clients;%F0%9F%8E%A8+Pixel-Perfect+%E2%80%A2+Responsive+%E2%80%A2+Fast" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=6D28D9&center=true&vCenter=true&width=760&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Ashish+Kumar+Debnath;%F0%9F%92%BB+WordPress+%26+Elementor+Specialist;%F0%9F%9B%8D%EF%B8%8F+Shopify+%26+WooCommerce+Developer;%F0%9F%9A%80+80%2B+Live+Projects+for+Global+Clients;%F0%9F%8E%A8+Pixel-Perfect+%E2%80%A2+Responsive+%E2%80%A2+Fast" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=6D28D9&center=true&vCenter=true&width=760&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Ashish+Kumar+Debnath;%F0%9F%92%BB+WordPress+%26+Elementor+Specialist;%F0%9F%9B%8D%EF%B8%8F+Shopify+%26+WooCommerce+Developer;%F0%9F%9A%80+80%2B+Live+Projects+for+Global+Clients;%F0%9F%8E%A8+Pixel-Perfect+%E2%80%A2+Responsive+%E2%80%A2+Fast" alt="Typing animation" />
+  </picture>
 </a>
 
 <br/><br/>
 
-<!-- Badges -->
-<a href="https://ashishweb.com/"><img src="https://img.shields.io/badge/Portfolio-ashishweb.com-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/debashish10/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/ashishdn"><img src="https://img.shields.io/badge/GitHub-ashishdn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://komarev.com/ghpvc/?username=ashishdn&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile views"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Experience-3%2B%20Years-22c55e?style=flat-square&logo=clockify&logoColor=white" />
-<img src="https://img.shields.io/badge/Live%20Projects-80%2B-f59e0b?style=flat-square&logo=rocket&logoColor=white" />
-<img src="https://img.shields.io/badge/Clients-International-3b82f6?style=flat-square&logo=globe&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Open%20for%20Work-ef4444?style=flat-square&logo=handshake&logoColor=white" />
+<a href="https://ashishweb.com/"><img src="https://img.shields.io/badge/Portfolio-ashishweb.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1F2937" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/debashish10/"><img src="https://img.shields.io/badge/LinkedIn-debashish10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937" alt="LinkedIn"/></a>
+<a href="https://github.com/ashishdn"><img src="https://img.shields.io/github/followers/ashishdn?style=for-the-badge&logo=github&logoColor=white&labelColor=1F2937&color=0891B2" alt="GitHub followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=ashishdn&label=Profile+Views&color=DB2777&style=for-the-badge&labelColor=1F2937" alt="Profile views"/>
 
 </div>
 
 <br/>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ===================== INTRO ===================== -->
 <div align="center">
@@ -45,7 +45,14 @@ I'm a passionate **Web Developer** with **3+ years of professional experience**,
 
 I've delivered **80+ live projects** for international clients, focusing on **WordPress, Elementor, Crocoblock / JetEngine, WooCommerce, Shopify and custom web development**.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<!-- ===================== AT A GLANCE ===================== -->
+## 📊 At a Glance
+
+<img src="./assets/stats.svg" width="100%" alt="3+ years experience, 80+ live projects, international clients, responsive and pixel-perfect" />
+
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ===================== ABOUT ===================== -->
 ## 🚀 About Me
@@ -73,7 +80,7 @@ I've delivered **80+ live projects** for international clients, focusing on **Wo
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
@@ -88,10 +95,10 @@ I've delivered **80+ live projects** for international clients, focusing on **Wo
 
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
-<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-<img src="https://img.shields.io/badge/Crocoblock-FF3E6C?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/JetEngine-0A0A23?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/WooCommerce-7F54B3?style=for-the-badge&logo=woocommerce&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopify-5E8E3E?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Crocoblock-E11D48?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/JetEngine-1E293B?style=for-the-badge&logoColor=white" />
 
 **⚙️ Backend & Database**
 
@@ -106,18 +113,18 @@ I've delivered **80+ live projects** for international clients, focusing on **Wo
 <br/>
 
 <img src="https://img.shields.io/badge/Elementor%20%26%20Pro-92003B?style=flat-square" />
-<img src="https://img.shields.io/badge/Crocoblock%20%2F%20JetEngine-FF3E6C?style=flat-square" />
+<img src="https://img.shields.io/badge/Crocoblock%20%2F%20JetEngine-E11D48?style=flat-square" />
 <img src="https://img.shields.io/badge/Custom%20Post%20Types-21759B?style=flat-square" />
 <img src="https://img.shields.io/badge/Custom%20Taxonomies-21759B?style=flat-square" />
 <img src="https://img.shields.io/badge/Dynamic%20Listings-21759B?style=flat-square" />
 <img src="https://img.shields.io/badge/Dynamic%20Content-21759B?style=flat-square" />
-<img src="https://img.shields.io/badge/JetFormBuilder-FF3E6C?style=flat-square" />
-<img src="https://img.shields.io/badge/JetWooBuilder-FF3E6C?style=flat-square" />
+<img src="https://img.shields.io/badge/JetFormBuilder-E11D48?style=flat-square" />
+<img src="https://img.shields.io/badge/JetWooBuilder-E11D48?style=flat-square" />
 <img src="https://img.shields.io/badge/Custom%20Templates-21759B?style=flat-square" />
-<img src="https://img.shields.io/badge/WooCommerce%20Customization-96588A?style=flat-square" />
+<img src="https://img.shields.io/badge/WooCommerce%20Customization-7F54B3?style=flat-square" />
 <img src="https://img.shields.io/badge/Theme%20%26%20Plugin%20Customization-21759B?style=flat-square" />
-<img src="https://img.shields.io/badge/Bug%20Fixing-ef4444?style=flat-square" />
-<img src="https://img.shields.io/badge/Performance%20Optimization-22c55e?style=flat-square" />
+<img src="https://img.shields.io/badge/Bug%20Fixing-DC2626?style=flat-square" />
+<img src="https://img.shields.io/badge/Performance%20Optimization-16A34A?style=flat-square" />
 
 </details>
 
@@ -125,19 +132,21 @@ I've delivered **80+ live projects** for international clients, focusing on **Wo
 <summary><b>🛍️ Shopify Expertise</b></summary>
 <br/>
 
-<img src="https://img.shields.io/badge/Theme%20Customization-7AB55C?style=flat-square" />
-<img src="https://img.shields.io/badge/Liquid-7AB55C?style=flat-square" />
-<img src="https://img.shields.io/badge/Custom%20Sections-7AB55C?style=flat-square" />
+<img src="https://img.shields.io/badge/Theme%20Customization-5E8E3E?style=flat-square" />
+<img src="https://img.shields.io/badge/Liquid-5E8E3E?style=flat-square" />
+<img src="https://img.shields.io/badge/Custom%20Sections-5E8E3E?style=flat-square" />
 <img src="https://img.shields.io/badge/HTML%20%2F%20CSS%20%2F%20JS-E34F26?style=flat-square" />
-<img src="https://img.shields.io/badge/Figma%20to%20Shopify-F24E1E?style=flat-square" />
-<img src="https://img.shields.io/badge/Store%20Customization-7AB55C?style=flat-square" />
-<img src="https://img.shields.io/badge/Product%20%26%20Collection%20Setup-7AB55C?style=flat-square" />
-<img src="https://img.shields.io/badge/App%20Integration-7AB55C?style=flat-square" />
-<img src="https://img.shields.io/badge/Bug%20Fixing%20%26%20Optimization-ef4444?style=flat-square" />
+<img src="https://img.shields.io/badge/Figma%20to%20Shopify-C2410C?style=flat-square" />
+<img src="https://img.shields.io/badge/Store%20Customization-5E8E3E?style=flat-square" />
+<img src="https://img.shields.io/badge/Product%20%26%20Collection%20Setup-5E8E3E?style=flat-square" />
+<img src="https://img.shields.io/badge/App%20Integration-5E8E3E?style=flat-square" />
+<img src="https://img.shields.io/badge/Bug%20Fixing%20%26%20Optimization-DC2626?style=flat-square" />
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ===================== SERVICES ===================== -->
 ## 💼 Services I Provide
@@ -179,90 +188,91 @@ I've delivered **80+ live projects** for international clients, focusing on **Wo
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ===================== FEATURED WORK ===================== -->
 ## 📌 Featured Work
 
 <div align="center">
 
-<a href="https://ashishweb.com/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-ashishweb.com-00F7FF?style=for-the-badge&labelColor=0D1117" /></a>
-<a href="https://github.com/ashishdn"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20GitHub-ashishdn-ffffff?style=for-the-badge&labelColor=0D1117" /></a>
-<a href="https://www.linkedin.com/in/debashish10/"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-debashish10-0A66C2?style=for-the-badge&labelColor=0D1117" /></a>
+<a href="https://ashishweb.com/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-ashishweb.com-7C3AED?style=for-the-badge&labelColor=1F2937" /></a>
+<a href="https://github.com/ashishdn"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20GitHub-ashishdn-0891B2?style=for-the-badge&labelColor=1F2937" /></a>
+<a href="https://www.linkedin.com/in/debashish10/"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-debashish10-0A66C2?style=for-the-badge&labelColor=1F2937" /></a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
+<!-- ===================== CONTRIBUTIONS ===================== -->
+## 📈 My Contributions
 
 <div align="center">
+  <img src="https://ghchart.rshah.org/7C3AED/ashishdn" width="100%" alt="GitHub contribution chart" />
+</div>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ashishdn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishdn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+<!--
+  OPTIONAL — live GitHub stats cards.
+  The public github-readme-stats server is often down, so these are disabled by default.
+  If you deploy your own copy (free on Vercel), replace YOUR-VERCEL-APP below and remove the comment markers:
+
+  <div align="center">
+    <img height="180" src="https://YOUR-VERCEL-APP.vercel.app/api?username=ashishdn&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img height="180" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=ashishdn&layout=compact&theme=tokyonight&hide_border=true" />
+  </div>
+-->
+
+<!--
+  OPTIONAL — snake animation.
+  Add .github/workflows/snake.yml, run it once from the Actions tab, then remove the comment markers:
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/ashishdn/ashishdn/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
+  </div>
+-->
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ashishdn&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" alt="Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashishdn&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="Trophies" />
-
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishdn&bg_color=0D1117&color=00F7FF&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&radius=10" width="100%" alt="Contribution graph" />
-</div>
-
-<!-- 🐍 Snake animation: needs the workflow file in .github/workflows/snake.yml
-     and a repo named ashishdn/ashishdn. Delete this block if you don't use it. -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/ashishdn/ashishdn/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ===================== LEARNING ===================== -->
 ## 🌱 Currently Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/React.js-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-15803D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-475569?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-16A34A?style=for-the-badge&logo=mongodb&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/WordPress%20Plugin%20Development-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/Advanced%20PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Advanced%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Advanced%20PHP-6D28D9?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Advanced%20JavaScript-CA8A04?style=for-the-badge&logo=javascript&logoColor=white" />
 
 </div>
 
-<!-- ===================== CONTACT ===================== -->
 <br/>
 
+<!-- ===================== CONTACT ===================== -->
 <div align="center">
 
 ## 🤝 Let's Build Something Great Together
 
 <a href="https://ashishweb.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Have+a+project+in+mind%3F;Let's+turn+your+idea+into+a+premium+website+%F0%9F%9A%80" alt="CTA" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=C4B5FD&center=true&vCenter=true&width=600&lines=Have+a+project+in+mind%3F;Let's+turn+your+idea+into+a+premium+website+%F0%9F%9A%80" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6D28D9&center=true&vCenter=true&width=600&lines=Have+a+project+in+mind%3F;Let's+turn+your+idea+into+a+premium+website+%F0%9F%9A%80" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6D28D9&center=true&vCenter=true&width=600&lines=Have+a+project+in+mind%3F;Let's+turn+your+idea+into+a+premium+website+%F0%9F%9A%80" alt="Have a project in mind?" />
+  </picture>
 </a>
 
 <br/>
 
-<a href="https://ashishweb.com/"><img src="https://img.shields.io/badge/Hire%20Me-Visit%20Portfolio-7c3aed?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/debashish10/"><img src="https://img.shields.io/badge/Message%20Me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+<a href="https://ashishweb.com/"><img src="https://img.shields.io/badge/Hire%20Me-Visit%20Portfolio-7C3AED?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1F2937" /></a>
+<a href="https://www.linkedin.com/in/debashish10/"><img src="https://img.shields.io/badge/Message%20Me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer" width="100%" alt="footer" />
+<br/>
+
+<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting" />
