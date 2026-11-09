@@ -1,18 +1,15 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Ashish Kumar Debnath - Web Developer" />
+<!-- ===================== HEADER ===================== -->
 
-<br/>
-
-<!-- Circular profile photo (from your GitHub avatar) -->
 <a href="https://ashishweb.com/">
   <img src="https://images.weserv.nl/?url=github.com/ashishdn.png&w=200&h=200&fit=cover&mask=circle&maxage=7d" width="170" alt="Ashish Kumar Debnath" />
 </a>
 
-<br/>
+<h1 align="center">Ashish Kumar Debnath</h1>
 
-<!-- Typing animation: readable in both dark and light mode -->
+<h3 align="center">💻 Web Developer &nbsp;|&nbsp; WordPress &amp; Elementor Specialist &nbsp;|&nbsp; Shopify Developer</h3>
+
 <a href="https://ashishweb.com/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=760&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Ashish+Kumar+Debnath;%F0%9F%92%BB+WordPress+%26+Elementor+Specialist;%F0%9F%9B%8D%EF%B8%8F+Shopify+%26+WooCommerce+Developer;%F0%9F%9A%80+80%2B+Live+Projects+for+Global+Clients;%F0%9F%8E%A8+Pixel-Perfect+%E2%80%A2+Responsive+%E2%80%A2+Fast" />
@@ -28,64 +25,53 @@
 <a href="https://github.com/ashishdn"><img src="https://img.shields.io/github/followers/ashishdn?style=for-the-badge&logo=github&logoColor=white&labelColor=1F2937&color=0891B2" alt="GitHub followers"/></a>
 <img src="https://komarev.com/ghpvc/?username=ashishdn&label=Profile+Views&color=DB2777&style=for-the-badge&labelColor=1F2937" alt="Profile views"/>
 
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
+<br/><br/>
 
 <!-- ===================== INTRO ===================== -->
-<div align="center">
 
 ### ✨ Turning ideas and designs into pixel-perfect, fast and user-friendly websites ✨
 
-</div>
+I'm a passionate **Web Developer** with **3+ years of professional experience**,<br/>
+building modern, responsive, high-performing websites and eCommerce solutions.
 
-I'm a passionate **Web Developer** with **3+ years of professional experience**, building modern, responsive, high-performing websites and eCommerce solutions.
-
-I've delivered **80+ live projects** for international clients, focusing on **WordPress, Elementor, Crocoblock / JetEngine, WooCommerce, Shopify and custom web development**.
+I've delivered **80+ live projects** for international clients, focusing on<br/>
+**WordPress, Elementor, Crocoblock / JetEngine, WooCommerce, Shopify and custom web development**.
 
 <!-- ===================== AT A GLANCE ===================== -->
+
 ## 📊 At a Glance
 
-<img src="./assets/stats.svg" width="100%" alt="3+ years experience, 80+ live projects, international clients, responsive and pixel-perfect" />
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-7C3AED?style=for-the-badge&labelColor=1F2937" alt="3+ years experience" />
+<img src="https://img.shields.io/badge/Live%20Projects-80%2B-2563EB?style=for-the-badge&labelColor=1F2937" alt="80+ live projects" />
+<img src="https://img.shields.io/badge/Clients-International-0891B2?style=for-the-badge&labelColor=1F2937" alt="International clients" />
+<img src="https://img.shields.io/badge/Focus-Pixel--Perfect%20%26%20Fast-DB2777?style=for-the-badge&labelColor=1F2937" alt="Pixel-perfect and fast" />
 
 <!-- ===================== ABOUT ===================== -->
+
 ## 🚀 About Me
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
-
-- 💼 **3+ years** of professional experience
-- 🚀 **80+** live projects delivered
-- 🌍 Worked with **international clients**
-- 🎯 Specialized in **WordPress & Elementor**
-- ⚡ Dynamic WordPress with **JetEngine**
-
+<td width="50%" align="center" valign="top">
+💼 <b>3+ years</b> of professional experience<br/>
+🚀 <b>80+</b> live projects delivered<br/>
+🌍 Worked with <b>international clients</b><br/>
+🎯 Specialized in <b>WordPress &amp; Elementor</b><br/>
+⚡ Dynamic WordPress with <b>JetEngine</b>
 </td>
-<td width="50%" valign="top">
-
-- 🛒 **WooCommerce & Shopify** development
-- 🎨 **Figma → WordPress / Shopify**
-- 🔧 Customization, bug fixing & optimization
-- 📱 Responsive & pixel-perfect focus
-- 🌱 Learning **React, Next.js & backend**
-
+<td width="50%" align="center" valign="top">
+🛒 <b>WooCommerce &amp; Shopify</b> development<br/>
+🎨 <b>Figma → WordPress / Shopify</b><br/>
+🔧 Customization, bug fixing &amp; optimization<br/>
+📱 Responsive &amp; pixel-perfect focus<br/>
+🌱 Learning <b>React, Next.js &amp; backend</b>
 </td>
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
-
 <!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech Stack
 
-<div align="center">
+## 🛠️ Tech Stack
 
 **🎨 Frontend**
 
@@ -104,13 +90,7 @@ I've delivered **80+ live projects** for international clients, focusing on **Wo
 
 <img src="https://skillicons.dev/icons?i=php,nodejs,express,mongodb,firebase,git,github&perline=7" alt="Backend" />
 
-</div>
-
-<br/>
-
-<details open>
-<summary><b>🌐 WordPress Expertise</b></summary>
-<br/>
+### 🌐 WordPress Expertise
 
 <img src="https://img.shields.io/badge/Elementor%20%26%20Pro-92003B?style=flat-square" />
 <img src="https://img.shields.io/badge/Crocoblock%20%2F%20JetEngine-E11D48?style=flat-square" />
@@ -126,11 +106,7 @@ I've delivered **80+ live projects** for international clients, focusing on **Wo
 <img src="https://img.shields.io/badge/Bug%20Fixing-DC2626?style=flat-square" />
 <img src="https://img.shields.io/badge/Performance%20Optimization-16A34A?style=flat-square" />
 
-</details>
-
-<details open>
-<summary><b>🛍️ Shopify Expertise</b></summary>
-<br/>
+### 🛍️ Shopify Expertise
 
 <img src="https://img.shields.io/badge/Theme%20Customization-5E8E3E?style=flat-square" />
 <img src="https://img.shields.io/badge/Liquid-5E8E3E?style=flat-square" />
@@ -142,16 +118,11 @@ I've delivered **80+ live projects** for international clients, focusing on **Wo
 <img src="https://img.shields.io/badge/App%20Integration-5E8E3E?style=flat-square" />
 <img src="https://img.shields.io/badge/Bug%20Fixing%20%26%20Optimization-DC2626?style=flat-square" />
 
-</details>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
 <!-- ===================== SERVICES ===================== -->
+
 ## 💼 Services I Provide
 
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="33%" valign="top" align="center">
 <h3>🌐 WordPress</h3>
@@ -159,7 +130,7 @@ I've delivered **80+ live projects** for international clients, focusing on **Wo
 </td>
 <td width="33%" valign="top" align="center">
 <h3>🎨 Elementor</h3>
-<sub>Elementor & Pro development with custom layouts, responsive designs, dynamic templates and reusable components.</sub>
+<sub>Elementor &amp; Pro development with custom layouts, responsive designs, dynamic templates and reusable components.</sub>
 </td>
 <td width="33%" valign="top" align="center">
 <h3>⚡ Dynamic WP</h3>
@@ -182,62 +153,29 @@ I've delivered **80+ live projects** for international clients, focusing on **Wo
 </tr>
 <tr>
 <td colspan="3" align="center">
-<h3>🔧 Bug Fixing & Optimization</h3>
+<h3>🔧 Bug Fixing &amp; Optimization</h3>
 <sub>WordPress troubleshooting, responsive issues, plugin conflicts, performance optimization and maintenance.</sub>
 </td>
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
-
 <!-- ===================== FEATURED WORK ===================== -->
-## 📌 Featured Work
 
-<div align="center">
+## 📌 Featured Work
 
 <a href="https://ashishweb.com/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-ashishweb.com-7C3AED?style=for-the-badge&labelColor=1F2937" /></a>
 <a href="https://github.com/ashishdn"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20GitHub-ashishdn-0891B2?style=for-the-badge&labelColor=1F2937" /></a>
 <a href="https://www.linkedin.com/in/debashish10/"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-debashish10-0A66C2?style=for-the-badge&labelColor=1F2937" /></a>
 
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
 <!-- ===================== CONTRIBUTIONS ===================== -->
+
 ## 📈 My Contributions
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/7C3AED/ashishdn" width="100%" alt="GitHub contribution chart" />
-</div>
-
-<!--
-  OPTIONAL — live GitHub stats cards.
-  The public github-readme-stats server is often down, so these are disabled by default.
-  If you deploy your own copy (free on Vercel), replace YOUR-VERCEL-APP below and remove the comment markers:
-
-  <div align="center">
-    <img height="180" src="https://YOUR-VERCEL-APP.vercel.app/api?username=ashishdn&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="180" src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=ashishdn&layout=compact&theme=tokyonight&hide_border=true" />
-  </div>
--->
-
-<!--
-  OPTIONAL — snake animation.
-  Add .github/workflows/snake.yml, run it once from the Actions tab, then remove the comment markers:
-
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/ashishdn/ashishdn/output/github-snake-dark.svg" width="100%" alt="Snake animation" />
-  </div>
--->
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://ghchart.rshah.org/7C3AED/ashishdn" width="100%" alt="GitHub contribution chart" />
 
 <!-- ===================== LEARNING ===================== -->
-## 🌱 Currently Learning
 
-<div align="center">
+## 🌱 Currently Learning
 
 <img src="https://img.shields.io/badge/React.js-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -249,12 +187,7 @@ I've delivered **80+ live projects** for international clients, focusing on **Wo
 <img src="https://img.shields.io/badge/Advanced%20PHP-6D28D9?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Advanced%20JavaScript-CA8A04?style=for-the-badge&logo=javascript&logoColor=white" />
 
-</div>
-
-<br/>
-
 <!-- ===================== CONTACT ===================== -->
-<div align="center">
 
 ## 🤝 Let's Build Something Great Together
 
@@ -271,8 +204,14 @@ I've delivered **80+ live projects** for international clients, focusing on **Wo
 <a href="https://ashishweb.com/"><img src="https://img.shields.io/badge/Hire%20Me-Visit%20Portfolio-7C3AED?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1F2937" /></a>
 <a href="https://www.linkedin.com/in/debashish10/"><img src="https://img.shields.io/badge/Message%20Me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937" /></a>
 
+<br/><br/>
+
+<!-- ===================== FOOTER ===================== -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=C4B5FD&center=true&vCenter=true&width=600&lines=Thanks+for+visiting%21+%F0%9F%92%9C;Let's+build+something+great+together+%F0%9F%9A%80" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=6D28D9&center=true&vCenter=true&width=600&lines=Thanks+for+visiting%21+%F0%9F%92%9C;Let's+build+something+great+together+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=6D28D9&center=true&vCenter=true&width=600&lines=Thanks+for+visiting%21+%F0%9F%92%9C;Let's+build+something+great+together+%F0%9F%9A%80" alt="Thanks for visiting" />
+</picture>
+
 </div>
-
-<br/>
-
-<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting" />
